@@ -3,7 +3,7 @@ const http = require('http');
 const fs = require('fs');
 
 const student = {
-    name: 'Кашуба Денис',
+    name: 'Головацький Станіслав',
     group: 'ІТ-31',
     message: 'Я вчуся працювати з Node.js!'
 };
